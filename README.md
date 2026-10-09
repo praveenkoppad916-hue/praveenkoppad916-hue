@@ -43,6 +43,7 @@ My work focuses on investigating complex application issues, troubleshooting API
 ## 🚀 Featured Project
 
 ### [SQL Troubleshooting Knowledge Base](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
+[![SQL Troubleshooting CI](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml/badge.svg)](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml)
 
 A hands-on, independent SQL troubleshooting laboratory built around fictional payment-processing and production-support scenarios.
 
