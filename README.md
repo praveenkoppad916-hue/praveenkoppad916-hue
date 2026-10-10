@@ -104,6 +104,32 @@ A hands-on CI/CD troubleshooting laboratory demonstrating automated validation, 
 **Tech stack:** Jenkins · GitHub Actions · Docker · Node.js · JavaScript
 
 All troubleshooting scenarios are simulated and use fictional data.
+
+### [Linux Production Support & Incident Troubleshooting Lab](https://github.com/praveenkoppad916-hue/linux-production-support-lab)
+
+A hands-on Linux troubleshooting lab using Ubuntu 24.04 and Docker to investigate simulated payment application incidents.
+
+**Highlights:**
+- Investigated HTTP 500 and HTTP 504 application failures.
+- Analyzed application logs using grep, tail, and other Linux commands.
+- Developed a Bash script to automate incident investigations.
+- Identified affected transaction IDs and correlated error events.
+- Documented incident findings and evidence-based RCA.
+- Validated script execution inside Docker.
+- Published investigation screenshots and technical documentation.
+
+**Tech stack:** Linux · Ubuntu · Docker · Bash · Git · Incident RCA
+
+[View Investigation Screenshot](https://github.com/praveenkoppad916-hue/linux-production-support-lab/blob/main/screenshots/incident-investigation.png)
+
+All application logs and transaction identifiers are fictional.
+
+---
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+
 ## 🎓 Education
 
 **MSc — Mechatronics Systems Engineering**  
@@ -114,6 +140,7 @@ Kingston University London
 - ⚙️ [Jenkins CI/CD & Deployment Troubleshooting](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting)
 - 🌍 [Professional Portfolio](https://praveenkoppad916-hue.github.io/)
 - 🗄️ [SQL Troubleshooting](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
+- 🐧 [Linux Production Support & Incident Troubleshooting](https://github.com/praveenkoppad916-hue/linux-production-support-lab)
 - 🤖 [Planetary Rover Path Planning](https://github.com/praveenkoppad916-hue/planetary-rover-path-planning)
 - 🌱 [Automated Pesticide Sprayer](https://github.com/praveenkoppad916-hue/automated-pesticide-sprayer)
 
