@@ -40,7 +40,7 @@ My work focuses on investigating complex application issues, troubleshooting API
 - Managed technical support tickets, escalations, and incident investigations.
 - Collaborated with engineering teams to identify defects and restore services.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [SQL Troubleshooting Knowledge Base](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
 [![SQL Troubleshooting CI](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml/badge.svg)](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml)
@@ -58,15 +58,44 @@ A hands-on, independent SQL troubleshooting laboratory built around fictional pa
 
 **Tech stack:** SQL · SQLite · Python · GitHub Actions
 
-All demonstration data is synthetic and independent of employer systems.
+*All demonstration data is synthetic and independent of employer systems.*
 
+
+### [Jenkins CI/CD & Deployment Troubleshooting Lab](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting)
+
+[![Node.js Validation](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting/actions/workflows/node-validation.yml/badge.svg)](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting/actions/workflows/node-validation.yml)
+
+[![Docker Build Validation](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting/actions/workflows/docker-build.yml/badge.svg)](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting/actions/workflows/docker-build.yml)
+
+A hands-on CI/CD troubleshooting laboratory demonstrating automated validation, pipeline failure investigation, Docker builds, and incident recovery.
+
+**Completed Troubleshooting Labs:**
+
+| Lab | Failure Scenario |
+|---|---|
+| CI-001 | Deployment health-check failure |
+| CI-002 | JavaScript build validation failure |
+| CI-003 | npm dependency installation failure |
+| CI-004 | Docker base-image resolution failure |
+
+**Highlights:**
+- Investigated simulated CI/CD failures using GitHub Actions logs.
+- Diagnosed JavaScript syntax and npm dependency errors.
+- Troubleshot Docker base-image resolution failures.
+- Validated corrective actions through successful workflow runs.
+- Documented incident root-cause analyses and recovery steps.
+- Practised Jenkins pipeline and Docker troubleshooting concepts.
+
+**Tech stack:** Jenkins · GitHub Actions · Docker · Node.js · JavaScript
+
+All troubleshooting scenarios are simulated and use fictional data.
 ## 🎓 Education
 
 **MSc — Mechatronics Systems Engineering**  
 Kingston University London
 
 ## 🌐 Portfolio & Projects
-
+- ⚙️ [Jenkins CI/CD & Deployment Troubleshooting](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting)
 - 🌍 [Professional Portfolio](https://praveenkoppad916-hue.github.io/)
 - 🗄️ [SQL Troubleshooting](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
 - 🤖 [Planetary Rover Path Planning](https://github.com/praveenkoppad916-hue/planetary-rover-path-planning)
