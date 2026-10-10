@@ -41,7 +41,22 @@ My work focuses on investigating complex application issues, troubleshooting API
 - Collaborated with engineering teams to identify defects and restore services.
 
 ## 🚀 Featured Projects
+### [Kibana Production Log Troubleshooting & Incident RCA](https://github.com/praveenkoppad916-hue/kibana-production-log-troubleshooting)
 
+[![Validate sample investigations](https://github.com/praveenkoppad916-hue/kibana-production-log-troubleshooting/actions/workflows/validate.yml/badge.svg)](https://github.com/praveenkoppad916-hue/kibana-production-log-troubleshooting/actions/workflows/validate.yml)
+
+Hands-on Kibana and Elasticsearch troubleshooting lab featuring synthetic fintech payment logs, transaction tracing, KQL queries, API failure analysis, and incident RCA documentation.
+
+**Highlights:**
+- Six realistic production incident investigation scenarios
+- Kibana KQL and Elasticsearch Query DSL examples
+- Transaction ID tracing and cross-service log correlation
+- HTTP 5xx error and upstream timeout investigations
+- Automated sample-data validation using GitHub Actions
+
+**Tech stack:** Kibana · Elasticsearch · KQL · JSON · GitHub Actions
+
+*All logs and transaction data are synthetic. Automated fixture validation has passed; live Elasticsearch query execution is not yet verified.*
 ### [SQL Troubleshooting Knowledge Base](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
 [![SQL Troubleshooting CI](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml/badge.svg)](https://github.com/praveenkoppad916-hue/sql-troubleshooting/actions/workflows/sql-tests.yml)
 
@@ -95,6 +110,7 @@ All troubleshooting scenarios are simulated and use fictional data.
 Kingston University London
 
 ## 🌐 Portfolio & Projects
+- 🔎 [Kibana Production Log Troubleshooting](https://github.com/praveenkoppad916-hue/kibana-production-log-troubleshooting)
 - ⚙️ [Jenkins CI/CD & Deployment Troubleshooting](https://github.com/praveenkoppad916-hue/jenkins-cicd-deployment-troubleshooting)
 - 🌍 [Professional Portfolio](https://praveenkoppad916-hue.github.io/)
 - 🗄️ [SQL Troubleshooting](https://github.com/praveenkoppad916-hue/sql-troubleshooting)
