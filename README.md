@@ -32,8 +32,8 @@ My work focuses on investigating complex application issues, troubleshooting API
 - Contribute to RCA documentation, troubleshooting runbooks, and operational improvements.
 - Support tenant onboarding, configuration validation, and go-live readiness.
 
-### Application / Technical Support Engineer — VSM Infotech
-*April 2022 – June 2025*
+### Technical Support Engineer — FEAT Innovations Pvt Ltd
+*May 2022 – July 2025*
 
 - Supported enterprise applications in production environments.
 - Troubleshot SQL, Linux, API, and application-related issues.
